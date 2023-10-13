@@ -15,3 +15,5 @@ Para utilizar o Java no VSCode, é necessário instalar as extensões abaixo
 - **vscjava.vscode-spring-initializr**
 - **vmware.vscode-spring-boot**
 - **vscjava.vscode-spring-boot-dashboard**
+
+-http://localhost:8080/h2-console
