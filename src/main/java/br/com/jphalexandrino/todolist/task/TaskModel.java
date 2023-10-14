@@ -1,6 +1,5 @@
 package br.com.jphalexandrino.todolist.task;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
@@ -36,7 +35,7 @@ public class TaskModel {
      @Column(length =  50)
      private String title;
      private LocalDateTime startAt;
-     private LocalDate endAt;
+     private LocalDateTime endAt; // Antes aqui tinha um erro que fazia todo o código de validação quebrar.
      private String priority;
 
      private UUID idUser;
