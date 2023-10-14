@@ -54,7 +54,7 @@ public class FilterTaskAuth extends OncePerRequestFilter {
                 // Valida senha
                 var passwordVerify = BCrypt.verifyer().verify(password.toCharArray(), user.getPassword());
                 if(passwordVerify.verified){
-                    // Segue viagem
+                // Segue viagem
                     request.setAttribute("idUser", user.getId());
                     filterChain.doFilter(request, response); 
                 } else{
