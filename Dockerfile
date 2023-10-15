@@ -1,4 +1,4 @@
-FROM unbunto:lates AS build
+FROM ubunto:lates AS build
 
 RUN aot-get update
 RUN apt-get install openjdk-17-jdk -y
