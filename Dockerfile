@@ -1,4 +1,4 @@
-FROM ubunto:lates AS build
+FROM ubunto:latest AS build
 
 RUN aot-get update
 RUN apt-get install openjdk-17-jdk -y
