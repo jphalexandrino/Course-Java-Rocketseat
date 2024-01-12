@@ -1,24 +1,24 @@
-# Rocketseat Curso De Java
+# Rocketseat Java Course
 
-Este repositório contém todo o conteúdo que aprendi durante o curso de Java da Rocketseat, realizado no evento Java, que ocorreu de 9 a 13 de outubro de 2023.
+This repository contains all the content I learned during the Rocketseat Java course held at the Java event from October 9 to 13, 2023.
 
-**Anotações Importantes**: Este repositório serve como um registro das anotações e recursos relacionados ao curso de Java da Rocketseat.
+**Important Notes:** This repository serves as a record of notes and resources related to the Rocketseat Java course.
 
-## Índice
+## Table of Contents
 
-- [Introdução](#introdução)
-- [Configuração do Ambiente](#configuração-do-ambiente)
-- [Acesso ao Banco de Dados](#acesso-ao-banco-de-dados)
+- [Introduction](#introduction)
+- [Environment Setup](#environment-setup)
+- [Database Access](#database-access)
 
-## Introdução
+## Introduction
 
-Neste repositório, você encontrará informações relacionadas ao curso de Java da Rocketseat, realizado no evento Java. Aqui estão os recursos, anotações e instruções para continuar seu aprendizado em Java.
+In this repository, you will find information related to the Rocketseat Java course held at the Java event. Here are the resources, notes, and instructions to continue your Java learning.
 
-## Configuração do Ambiente
+## Environment Setup
 
-Para aproveitar ao máximo o que foi aprendido no curso, você precisará configurar seu ambiente de desenvolvimento. Siga as etapas abaixo para configurar o Java no VS Code:
+To make the most of what you've learned in the course, you'll need to set up your development environment. Follow the steps below to configure Java in VS Code:
 
-1. Instale as seguintes extensões no VS Code:
+1. Install the following extensions in VS Code:
    - [vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
    - [vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
    - [vscjava.vscode-java-test](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
@@ -29,8 +29,8 @@ Para aproveitar ao máximo o que foi aprendido no curso, você precisará config
    - [vmware.vscode-spring-boot](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot)
    - [vscjava.vscode-spring-boot-dashboard](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard)
 
-## Acesso ao Banco de Dados
+## Database Access
 
-Para acessar o banco de dados, utilize o seguinte link:
+To access the database, use the following link:
 
 [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
